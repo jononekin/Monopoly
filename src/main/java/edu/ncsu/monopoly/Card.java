@@ -1,5 +1,5 @@
 package edu.ncsu.monopoly;
-//Prueba para comprobar funcionamiento de Github Actions
+//PNueva acción maven
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
