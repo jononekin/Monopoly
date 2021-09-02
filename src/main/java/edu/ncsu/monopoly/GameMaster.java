@@ -12,7 +12,7 @@ public class GameMaster {
 	private GameBoard gameBoard;
 	private MonopolyGUI gui;
 	private int initAmountOfMoney;
-	private ArrayList players = new ArrayList();
+	private ArrayList<Player> players = new ArrayList<>();
 	private int turn = 0;
 	private int utilDiceRoll;
 	private boolean testMode;
