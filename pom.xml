@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>1.0</groupId>
-	<artifactId>CI25Euskara</artifactId>
+	<artifactId>CICastellano</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<build>
@@ -50,8 +50,8 @@
 
 		<sonar.organization>jononekin</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>jononekin_ci25euskara</sonar.projectKey>
-		<sonar.login>8a1e66f2f75a7e629b345ec44bd48a28f2c39941</sonar.login>
+		<sonar.projectKey>jononekin_cicastellano</sonar.projectKey>
+		<sonar.login>5bb3d0b3b8817d07a3e3ae27ed6a861f35747f56</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
