@@ -50,8 +50,8 @@
 
 		<sonar.organization>jononekin</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>jononekin_cicastellano</sonar.projectKey>
-		<sonar.login>5bb3d0b3b8817d07a3e3ae27ed6a861f35747f56</sonar.login>
+		<sonar.projectKey>jononekin_jueves24</sonar.projectKey>
+		<sonar.token>26bdb2b35368a3907276393c341f2974b193b8c7</sonar.token>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
