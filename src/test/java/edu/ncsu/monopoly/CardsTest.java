@@ -1,4 +1,4 @@
-package edu.ncsu.monopoly;
+package edu.ncsu.monopoly; 
 
 import junit.framework.TestCase;
 
