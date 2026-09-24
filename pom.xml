@@ -47,11 +47,10 @@
 	<properties>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
-
 		<sonar.organization>jononekin</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.projectKey>jononekin_jueves24</sonar.projectKey>
-		
+		<sonar.token>26bdb2b35368a3907276393c341f2974b193b8c7</sonar.token>
 
 	</properties>
 
