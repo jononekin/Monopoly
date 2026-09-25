@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>1.0</groupId> 
-	<artifactId>jononekin_si2ostirala25</artifactId>
+	<artifactId>jononekin_is2viernes25</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<build>
@@ -49,8 +49,8 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<sonar.organization>jononekin</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>jononekin_si2ostirala25</sonar.projectKey>
-		<sonar.token>994809c6e3483f7a6e0f3947783277001729ee1c</sonar.token>
+		<sonar.projectKey>jononekin_is2viernes25</sonar.projectKey>
+		<sonar.token>50625ceb4047c9a9f331e89d1136fe447e29d578</sonar.token>
 
 	</properties>
 
