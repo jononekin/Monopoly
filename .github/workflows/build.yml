@@ -32,5 +32,5 @@ jobs:
           restore-keys: ${{ runner.os }}-m2
       - name: Build and analyze
          env:
-          SONAR_TOKEN: 994809c6e3483f7a6e0f3947783277001729ee1c 
+          SONAR_TOKEN: 994809c6e3483f7a6e0f3947783277001729ee1c
         run: mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent org.jacoco:jacoco-maven-plugin:report install org.sonarsource.scanner.maven:sonar-maven-plugin:sonar
